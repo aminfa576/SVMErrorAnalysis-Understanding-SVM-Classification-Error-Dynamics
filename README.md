@@ -8,7 +8,7 @@ This project was conceived and executed as a hands-on assignment for the Statist
 
 ## Tasks
 The project is structured into the following key tasks:
-1. **Train a Linear SVM:** Train a linear SVM using `training.csv` for \( C = 1, 2, 3, \ldots, 20 \). Extract and store the parameters \( w_C \) and \( b_C \) for each \( C \).
+1. **Train a Linear SVM:** Train a linear SVM using `training.csv` for ( C = 1, 2, 3,..., 20 ). Extract and store the parameters \( w_C \) and \( b_C \) for each \( C \).
 2. **Validation and Error Calculation:** Load `validation.csv` and divide it into 10 subsets of equal size. Compute the expectation and variance of the classification error for each subset using the parameters obtained from the training phase.
 3. **Error Analysis Visualization:** Create a plot of the estimated classification error (with its standard deviation) as a function of \( C \).
 
