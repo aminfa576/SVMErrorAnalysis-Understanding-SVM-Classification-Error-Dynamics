@@ -3,8 +3,6 @@
 ## Overview
 SVMErrorAnalysis is a project developed as part of the Statistical Machine Learning module in the MSc Data Analytics course at Aston University. The project systematically explores the influence of the regularization parameter \( C \) on the classification error of a Linear Support Vector Machine (SVM). Its primary aim is to provide empirical insights into the SVM's behavior under different regularization strengths.
 
-## Academic Context
-This project was conceived and executed as a hands-on assignment for the Statistical Machine Learning module. It offers students a practical and insightful experience in training, validating, and analyzing classification errors associated with SVMs.
 
 ## Tasks
 The project is structured into the following key tasks:
